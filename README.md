@@ -1,5 +1,7 @@
 ### Customer segmentation usign kubernetes
 
+https://images.app.goo.gl/DDXyz7CddCb794mt8
+
 ### Overview
 
 This repository demonstrates the development of a scalable machine learning model for customer segmentation, designed for real-time inference via a REST API. The project addresses the business challenge of segmenting customers using unstructured data to devise personalized marketing strategies. It integrates sophisticated workflows, including data ingestion, transformation, model training, and deployment, utilizing advanced tools such as FastAPI, Docker, Kubernetes, and GitHub Actions.
