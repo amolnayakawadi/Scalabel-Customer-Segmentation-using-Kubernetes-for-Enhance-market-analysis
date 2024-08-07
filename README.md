@@ -22,6 +22,10 @@ Customer segmentation is crucial for businesses to comprehend and cater to the d
 8. Testing: Verify the model's performance and accuracy using Postman for API endpoint testing and a Gradio interface hosted on Hugging Face Spaces for user-friendly testing.
 
 
+### Containerization of FastAPI application using Docker
+
+![Screenshot (20)](https://github.com/user-attachments/assets/15ba9688-5b5c-46ea-bee4-766883ef9d16)
+
 ### How to run 
 
 1. Clone this repositary
