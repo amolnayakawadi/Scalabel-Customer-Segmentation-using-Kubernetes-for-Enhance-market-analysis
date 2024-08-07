@@ -1,5 +1,5 @@
 ### Customer segmentation usign kubernetes
-
+![download](https://github.com/user-attachments/assets/de103e81-7140-4c54-9730-5a5bfb04d306)
 https://images.app.goo.gl/DDXyz7CddCb794mt8
 
 ### Overview
