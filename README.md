@@ -1,4 +1,4 @@
-### Customer segmentation usign kubernetes
+### Scalable Machine Learning Model
 ![download](https://github.com/user-attachments/assets/de103e81-7140-4c54-9730-5a5bfb04d306)
 
 
