@@ -14,10 +14,10 @@ def get_requirements(find_path:str)->List[str]:
         
 
 setup(
-name='Real-Time-Customer-Segmentation-with-Scalable-Kubernetes-Deployment-and-CI-CD-Integration',
+name='Scalable-Customer-Segmentation-using-Kuberneted-for-Enhance-market-analysis',
 version='0.0.1',
-author='Abhishek Chandragiri',
-author_email='abhishekgoud1212@gmail.com',
+author='Amol Nayakawadi',
+author_email='amolnayakawadi@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
