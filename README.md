@@ -4,7 +4,7 @@
 
 ### Overview
 
-This repository demonstrates the development of a scalable machine learning model for customer segmentation, designed for real-time inference via a REST API. The project addresses the business challenge of segmenting customers using unstructured data to devise personalized marketing strategies. It integrates sophisticated workflows, including data ingestion, transformation, model training, and deployment, utilizing advanced tools such as FastAPI, Docker, Kubernetes, and GitHub Actions.
+This repository demonstrates the development of a scalable machine learning model for customer segmentation, designed for real-time inference via a REST API.v We use a K-means clustering algorithm for customer segmentation to help business create targeted marketing strategies. The project addresses the business challenge of segmenting customers using unstructured data to devise personalized marketing strategies. It integrates sophisticated workflows, including data ingestion, transformation, model training, and deployment, utilizing advanced tools such as FastAPI, Docker, Kubernetes, and GitHub Actions.
 
 ### Business statement
 
